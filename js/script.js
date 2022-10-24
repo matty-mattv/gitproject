@@ -1,3 +1,6 @@
 const s = 5
 
-const v = "Hello there" 
+const v = 100
+
+const myFunc = () => {}
+
